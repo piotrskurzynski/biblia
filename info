@@ -1,0 +1,48 @@
+# Cel
+Celem projektu jest dokładne odwzorowanie tekstu polskiego
+przekładu Biblii Świętej z 1632 roku (zarówno wydania pierwszego,
+jak i wydania z 1879 roku) po to, aby tekst ten mógł posłużyć,
+za źródło do kolejnych publikacji oraz rewizji.
+
+Pierwszym zadaniem jest korekta istniejącego już
+cyfrowego tekstu wydania z 1879 roku.
+
+Skan wydania z 1879 roku:
+https://archive.org/details/biblijawietatoje00wars/page/n7/mode/2up?view=theater
+
+Drugim zadaniem jest odwzorowanie tekstu wydania z 1632 roku.
+Wybraną metodą jest wykorzystanie do tego celu poprawionego
+już tekstu wydania z 1879 roku, automatycznie zamieniając w plikach
+pisownię z zastanej na siedemnastowieczną, a następnie porównanie
+tekstu werset po wersecie ze skanem oryginału i naniesienie napotkanych różnic.
+
+Skan wydania z 1632 roku:
+https://drive.google.com/file/d/1MLVMZMDLZgNnFCoV1l6hrlajAzMLP9-E
+
+
+# Struktura
+Tekst Pisma podzielony jest foldery odpowiadające księgom Biblii,
+wewnątrz których znajdują się pliki tekstowe odpowiadające rozdziałom,
+w których następnie każda linijka odpowiada danemu wersetowi.
+
+
+# Procedura nanoszenia korekt
+Zmiany wprowadzać można poprzez stronę:
+https://github.com/piotrskurzynski/biblia
+
+1. Wybór odpowiedniej księgi i rozdziału
+(np. dla Rzym.5 '1879/45-rom/05.txt');
+
+2. Włączenie edycji 'Edit this file'
+(przy ikonie ołówka w prawym górnym rogu okna tekstu);
+
+3. Zatwierdzenie proponowanej zmiany 'Propose changes'
+a jako tytuł zmiany podając odnośnik korygowanego fragmentu
+(np. Rzym.5,8.);
+
+4. 'Create pull request'
+
+W przypadku niechęci to zastosowanej technologii, zmiany można
+też nadsyłać drogą mailową na adres: info@bojwiary.pl
+uprasza się jednak o wcześniejsze sprawdzenie, czy sugerowane
+zmiany nie zostały już tu naniesione.
