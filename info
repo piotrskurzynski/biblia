@@ -27,7 +27,7 @@ w których następnie każda linijka odpowiada danemu wersetowi.
 
 
 # Procedura nanoszenia korekt
-Zmiany wprowadzać można poprzez stronę:
+Zmiany wprowadzać można przez inteface github.com:
 https://github.com/piotrskurzynski/biblia
 
 1. Wybór odpowiedniej księgi i rozdziału
@@ -37,10 +37,16 @@ https://github.com/piotrskurzynski/biblia
 (przy ikonie ołówka w prawym górnym rogu okna tekstu);
 
 3. Zatwierdzenie proponowanej zmiany 'Propose changes'
-a jako tytuł zmiany podając odnośnik korygowanego fragmentu
+jako tytuł zmiany podając odnośnik korygowanego fragmentu
 (np. Rzym.5,8.);
 
 4. 'Create pull request'.
+
+
+# Postęp prac
+W pliku 'status' prowadzony jest zapis tego,
+kto, które rozdziały, jakich ksiąg sprawdził.
+
 
 W przypadku niechęci to zastosowanej technologii, zmiany można
 też nadsyłać drogą mailową na adres: info@bojwiary.pl
