@@ -7,14 +7,14 @@ Stało się także i w inszy sabat, że Jezus wszedł do bóźnicy, i nauczał; 
 I podstrzegli go nauczeni w Piśmie i Faryzeuszowie, jeźliby w sabat uzdrawiał, aby znaleźli, o coby nań skarżyli.
 Ale on wiedział myśli ich, i rzekł człowiekowi, który miał rękę uschłą: Wstań a stań pośrodku. A on wstawszy, stanął.
 Rzekł tedy do nich Jezus: Spytam was o jednę rzecz: Godzili się w sabaty dobrze czynić, czyli źle czynić? Człowieka zachować, czyli zatracić?
-A spojrzawszy w koło po wszystkich, rzekł onemu człowiekowi: Wyciągnij rękę twoję! a on tak uczynił i przywrócona jest do zdrowia ręka jego, jako i druga.
+A spojrzawszy w koło po wszystkich, rzekł onemu człowiekowi: Wyciągnij rękę twoję! a on tak uczynił, i przywrócona jest do zdrowia ręka jego, jako i druga.
 Ale oni napełnieni będąc szaleństwem, rozmawiali miedzy sobą, coby uczynić mieli Jezusowi.
 I stało się w oneż dni, odszedł na górę, aby się modlił; i był tam przez noc na modlitwie Bożej.
 A gdy był dzień, zwołał uczniów swych i wybrał z nich dwanaście, które też nazwał Apostołami:
 Szymona, którego też nazwał Piotrem, i Andrzeja brata jego, Jakóba, i Jana, Filipa, i Bartłomieja;
 Mateusza, i Tomasza, Jakóba, syna Alfeuszowego, i Szymona, którego zowią Zelotes;
-Judasza, brata Jakóbowego, i Judasza Iszkarjotę, który potem był zdrajcą.
-A zstąpiwszy z nimi stanął na miejscu pola równego, i gormada uczniów jego, i wielkie mnóstwo ludu ze wszystkiej Judzkiej ziemi, i z Jeruzalemu, i z kraju pomorskiego, leżącego przy Tyrze i Sydonie, którzy byli przyszli, aby go słuchali, i byli uzdrowieni od chorób swoich;
+Judasza, brata Jakóbowego, i Judasza Iszkaryjotę, który potem był zdrajcą.
+A zstąpiwszy z nimi, stanął na miejscu pola równego, i gormada uczniów jego, i wielkie mnóstwo ludu ze wszystkiej Judzkiej ziemi, i z Jeruzalemu, i z kraju pomorskiego, leżącego przy Tyrze i Sydonie, którzy byli przyszli, aby go słuchali, i byli uzdrowieni od chorób swoich;
 I ci, którzy byli trapieni od duchów nieczystych, byli uzdrowieni.
 A wszystek lud szukał, jakoby się go dotknąć; albowiem moc wychodziła z niego, i uzdrawiała wszystkich.
 A on podniósłszy oczy swoje na uczniów, mówił: Błogosławieni jesteście wy, ubodzy! bo wasze jest królestwo Boże.
@@ -25,16 +25,16 @@ Ale biada wam bogaczom! bo już macie pociechę waszę.
 Biada wam, którzyście nasyceni! albowiem łaknąć będziecie. Biada wam, którzy się teraz śmiejecie! bo się smucić i płakać będziecie.
 Biada wam, gdyby dobrze o was mówili wszyscy ludzie; bo tak czynili fałszywym prorokom ojcowie ich.
 Ale wam powiadam, którzy słuchacie: Miłujcie nieprzyjacioły wasze, czyńcie dobrze tym, którzy was mają w nienawiści.
-Błogosławcie tym, którzy was przeklinają; módlcie się za tymi, którzy wam złość wyrządzają.
-Temu, któryby cię uderzył w policzek, nastaw mu i drugiego: a temu, któryćby brał płaszcz, i sukni nie zabraniaj;
-I każdemu, któryby cię prosił, daj, a temu, co twoje bierze, nie upominaj się.
+Błogosławcie tym, którzy was przeklinają; i módlcie się za tymi, którzy wam złość wyrządzają.
+Temu, któryby cię uderzył w policzek, nadstaw mu i drugiego: a temu, któryćby brał płaszcz, i sukni nie zbraniaj;
+I każdemu, któryby cię prosił, daj, a temu, co twoje bierze, nie upominaj się;
 I cobyście chcieli, aby wam ludzie czynili, tak i wy im czyńcie.
-Albowiem jeźli miłujecie te, którzy was miłują, jakąż łaskę macie? albowiem toż i grzesznicy właśnie czynią.
-A jeźli dobrze czynicie tym, którzy wam dobrze czynią, jakąż łaskę macie? albowiem toż i grzesznicy właśnie czynią.
+Albowiem jeźli miłujecie te, którzy was miłują, jakąż łaskę macie? albowiem i grzesznicy toż właśnie czynią.
+A jeźli dobrze czynicie tym, którzy wam dobrze czynią, jakąż łaskę macie? albowiem toż i grzesznicy czynią.
 A jeźli pożyczacie tym, od których się spodziewacie odebrać, jakąż łaskę macie? albowiem i grzesznicy grzesznikom pożyczają, aby zasię tyle odebrali.
 Owszem miłujcie nieprzyjacioły wasze, i czyńcie im dobrze, i pożyczajcie, nic się stąd nie spodziewając, a będzie wielka zapłata wasza, i będziecie synami Najwyższego; albowiem on dobrotliwy jest przeciw niewdzięcznym i złym.
 Przetoż bądźcie miłosierni, jako i Ojciec wasz miłosierny jest.
-Nie sądźcie, a nie bądziecie sądzeni; nie potępiajcie, a nie będziecie potępieni, a będzie wam odpuszczono.
+Nie sądźcie, a nie bądziecie sądzeni; nie potępiajcie, a nie będziecie potępieni; odpuszczajcie, a będzie wam odpuszczono.
 Dawajcie, a będzie wam dano; miarę dobrą, natłoczoną, i potrzęsioną, i opływającą dadzą na łono wasze; albowiem tąż miarą, którą mierzycie, będzie wam zaś obmierzono.
 I powiedział im podobieństwo: Izali może ślepy ślepego prowadzić? azaż nie obadwaj w dół wpadną?
 Nie jestci uczeń nad mistrza swego; lecz doskonały będzie każdy, będzieli jako mistrz jego.
@@ -46,4 +46,4 @@ Człowiek dobry z dobrego skarbu serca swego wynosi rzeczy dobre, a zły człowi
 Przeczże mię tedy zowiecie Panie, Panie! a nie czynicie tego, co mówię?
 Każdy, który przychodzi do mnie, a słucha słów moich, i czyni je, pokażę wam, komu jest podobnym.
 Podobny jest człowiekowi dom budującemu, który kopał i wykopał głęboko, a założył grunt na opoce; a gdy przyszła powódź, otrąciła się rzeka o on dom, ale nie mogła go poruszyć; bo był założony na opoce.
-Ale który słucha, a nie czyni, podobny jest człowiekowi, który zbudował dom swój na ziemi bez gruntu; o który się otrąciła rzeka, i zarazem upadł, a był upadek domu onego wielki.
+Ale który słucha a nie czyni, podobny jest człowiekowi, który zbudował dom swój na ziemi bez gruntu; o który się otrąciła rzeka, i zarazem upadł, a był upadek domu onego wielki.
