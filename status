@@ -15,20 +15,20 @@
 08-rut fzdz4069(1-4)
 09-reg KKKowal(1-31)
 10-reg KKKowal(1-24)
-11-reg KKKowal(1-11)
-12-reg
+11-reg KKKowal(1-22)
+12-reg KKKowal(1-12)
 13-par LilliShiratori(1-4)
 14-par
-15-esd
-16-esd
-17-est fzdz4069(1-10)
+15-esd fzdz4069(1-11)
+16-esd fzdz4069(1-13)
+17-est 
 18-iob fzdz4069(1-36)
 19-psa iza1500100900(1-7)
 20-pro
 21-ecc
 22-can
 23-esa fzdz4069(1-66)
-24-ier Entis77(1-25)
+24-ier Entis77(1-35)
 25-lam Entis77(1-5)
 26-eze Entis77(1-48)
 27-dan Entis77(1-12)
