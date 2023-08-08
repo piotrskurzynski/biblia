@@ -21,11 +21,11 @@
 14-par
 15-esd fzdz4069(1-11)
 16-esd fzdz4069(1-13)
-17-est KlaudiaBib(1)
+17-est KlaudiaBib(1) fzdz4069(2-9)
 18-iob fzdz4069(1-36)
 19-psa iza1500100900(1-7)
 20-pro
-21-ecc Entis77(1-6)
+21-ecc Entis77(1-6) KlaudiaBib(7-8)
 22-can Entis77(1-8)
 23-esa fzdz4069(1-66)
 24-ier Entis77(1-52)
