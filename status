@@ -16,14 +16,14 @@
 09-reg KKKowal(1-31)
 10-reg KKKowal(1-24)
 11-reg KKKowal(1-22)
-12-reg KKKowal(1-18)
-13-par LilliShiratori(1-4)
+12-reg KKKowal(1-25)
+13-par LilliShiratori(1-4) KKKowal(1)
 14-par
 15-esd fzdz4069(1-11)
 16-esd fzdz4069(1-13)
 17-est KlaudiaBib(1) fzdz4069(2-9)
 18-iob fzdz4069(1-36)
-19-psa iza1500100900(1-7)
+19-psa iza1500100900(1-7) fzdz4069(3-14)
 20-pro
 21-ecc Entis77(1-6) KlaudiaBib(7-8)
 22-can Entis77(1-8)
