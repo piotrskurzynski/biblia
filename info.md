@@ -71,7 +71,7 @@ W pliku [status](/status) prowadzony jest zapis tego,
 kto, które rozdziały, jakich ksiąg sprawdził.
 
 
-W przypadku niechęci to zastosowanej technologii sugestie korekt
+W przypadku niechęci do zastosowanej technologii sugestie korekt
 można też nadsyłać drogą mailową na adres: info@bojwiary.pl
 uprasza się jednak o wcześniejsze sprawdzenie, czy sugerowane
 zmiany nie zostały już tu naniesione.
