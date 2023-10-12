@@ -31,6 +31,7 @@ tekstu werset po wersecie ze skanem oryginału i naniesienie napotkanych różni
 		<br>W użytej do wydania w 1632 roku czcionce wielkie litery nie mają kropek,
 		tzn. że „Ż” będzie zapisane jako „Z”, a akapity ze względów estetycznych mają wielkie dwie
 		pierwsze litery. Akapit zaczynający się więc: „ZYł” należy zapisać: „Żył” _(1Moj.5,18)._
+		W przypadkach takich jak: „PAn”, „JEzuſ” czy „BÓG” wielkie litery należy pozostawić.
 		- **á**
 		<br>Wszystkie „a” zostały automatycznie zamienione na „á”, ponieważ „á” występuje
 		częściej i łatwiej jest ręczne przywrócić „a” aniżeli odwrotnie.
