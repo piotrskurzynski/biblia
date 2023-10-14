@@ -19,7 +19,7 @@ tekstu werset po wersecie ze skanem oryginału i naniesienie napotkanych różni
 	<br>[1660](https://books.google.pl/books?id=FSZfAAAAcAAJ&dq=pismo%20%C5%9Bwi%C4%99te%201660&hl=pl&pg=RA2-PA256#v=onepage&q&f=false)
 	- Instrukcje szczegółowe:
 		- **Kursywa**
-		<br>Tekst pochylony można oznaczyć tagiem html &lt;i&gt;&lt;/i&gt;.
+		<br>Tekst pochylony należy oznaczyć tagiem html &lt;i&gt;&lt;/i&gt;.
 		>ćiemność &lt;i&gt;<i>byłá</i>&lt;/i&gt; nád przepáśćią
  		- **Literówki**
 		<br>Wydanie z 1632 roku, tak jak każda książka, posiada literówki, których powielać
