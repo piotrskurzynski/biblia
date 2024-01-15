@@ -17,6 +17,7 @@ tekstu werset po wersecie ze skanem oryginału i naniesienie napotkanych różni
 	- Skany:
 	<br>[1632](https://drive.google.com/file/d/1MLVMZMDLZgNnFCoV1l6hrlajAzMLP9-E)
 	<br>[1660](https://books.google.pl/books?id=FSZfAAAAcAAJ&dq=pismo%20%C5%9Bwi%C4%99te%201660&hl=pl&pg=RA2-PA256#v=onepage&q&f=false)
+	<br>[1606 (NT)](https://books.google.pl/books?id=2LyL-PvjFksC&printsec=frontcover&hl=pl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 	- Instrukcje szczegółowe:
 		- **Kursywa**
 		<br>Tekst pochylony należy oznaczyć tagiem html &lt;i&gt;&lt;/i&gt;.
