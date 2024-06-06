@@ -1,6 +1,6 @@
 # sprawdzone
 # 1632 [366/1189]
-01-gen [50/50] Entis77(1-47)
+01-gen [50/50] Entis77(1-50)
 02-exo [40/40] Entis77(1-40)
 03-lev [13/27] Entis77(1-13)
 04-num [0/36] 
@@ -39,7 +39,7 @@
 37-agg [0/2] 
 38-zac [0/14] 
 39-mal [0/4] 
-40-mat [10/28] KlaudiaBib(1-5) Entis77(1-3) UczenJazusa(24-28)
+40-mat [10/28] KlaudiaBib(1-5) Entis77(1-3) UczenJazusa(1-28)
 41-mar [16/16] Entis77(1-16)
 42-luc [24/24] Entis77(1-24)
 43-joh [21/21] martaskurzynska(1-21) UczenJazusa(1-21)
@@ -60,12 +60,12 @@
 58-heb [13/13] Entis77(1-13)
 59-jac [5/5] Entis77(1-5)
 60-pet [5/5] piotrskurzynski(1-5) Entis77(1-5)
-61-pet [3/3] piotrskurzynski(1) Entis77(1-3)
-62-joh [5/5] Entis77(1-5)
-63-joh [1/1] Entis77(1)
-64-joh [1/1] Entis77(1)
-65-jud [1/1] Entis77(1)
-66-apo [22/22] Entis77(1-22) UczenJazusa(1-22)
+61-pet [3/3] piotrskurzynski(1) Entis77(1-3) UczenJezusa(1-3)
+62-joh [5/5] Entis77(1-5) UczenJezusa(1-5)
+63-joh [1/1] Entis77(1) UczenJezusa(1)
+64-joh [1/1] Entis77(1) UczenJezusa(1)
+65-jud [1/1] Entis77(1) UczenJezusa(1)
+66-apo [22/22] Entis77(1-22) UczenJazusa(1-16)
 
 #1879 [1189/1189]
 01-gen [50/50] KKKowal(1-50)
