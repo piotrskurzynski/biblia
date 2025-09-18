@@ -42,7 +42,7 @@ A rodzice jego chadzali na każdy rok do Jeruzalemu na święto wielkanocne.
 A gdy już był we dwunastym roku, a oni wstępowali do Jeruzalemu według zwyczaju onego święta;
 I gdy skończyli one dni, a już się wracali nazad, zostało dziecię Jezus w Jeruzalemie, a tego nie wiedział Józef i matka jego.
 Lecz mniemając, że jest w towarzystwie podróżnem, uszli dzień drogi, i szukali go między krewnymi i między znajomymi.
-A gdy go nie znaleźli, wrócili się do Jeruzalemu, szukając go,
+A gdy go nie znaleźli, wrócili się do Jeruzalemu, szukając go.
 I stało się po trzech dniach, że go znaleźli siedzącego w kościele w pośrodku doktorów, słuchającego ich i pytającego ich.
 I zdumiewali się wszyscy, którzy go słuchali, nad rozumem i nad odpowiedziami jego.
 A ujrzawszy go rodzice, zdumieli się. I rzekła do niego matka jego: Synu! przeczżeś nam to uczynił? Oto ojciec twój i ja z boleścią szukaliśmy cię.
@@ -50,3 +50,4 @@ I rzekł do nich: Cóż jest, żeście mię szukali? Izaliście nie wiedzieli, i
 Lecz oni nie zrozumieli tego słowa, które im mówił.
 I zstąpił z nimi, i przyszedł do Nazaretu, a był im poddany. A matka jego zachowywała wszystkie te słowa w sercu swojem.
 A Jezus pomnażał się w mądrości, i we wzroście i w łasce u Boga i u ludzi.
+
