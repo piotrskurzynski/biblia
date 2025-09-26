@@ -12,7 +12,7 @@ I stało się, gdy szedł do Jeruzalemu, że szedł pośrodkiem Samaryi i Galile
 A gdy wchodził do niektórego miasteczka, zabieżało mu dziesięć mężów trędowatych, którzy stanęli z daleka.
 A ci podniósłszy głos swój, rzekli: Jezusie, Nauczycielu! zmiłuj się nad nami.
 Które on ujrzawszy, rzekł im: Szedłszy okażcie się kapłanom. I stało się, gdy szli, że oczyszczeni są.
-Ale jeden z nich ujrzawszy, że jest uzdrowiony, wrócił się: wielkim głosem chwaląc Boga;
+Ale jeden z nich ujrzawszy, że jest uzdrowiony, wrócił się; wielkim głosem chwaląc Boga;
 I padł na oblicze swoje u nóg jego, dziękując mu; a ten był Samarytanin.
 A Jezus odpowiadając, rzekł: Zaż nie dziesięć jest oczyszczonych, a dziewięć kędy?
 Nie znaleźli się, aby się wrócili, i dali chwałę Bogu, jedno ten cudzoziemiec?
@@ -35,3 +35,4 @@ Powiadam wam: Onej nocy będą dwaj na jednem łożu; jeden wzięty będzie, a d
 Dwie będą mleć z sobą; jedna wzięta będzie, a druga zostawiona.
 Dwaj będą na roli; jeden będzie wzięty, a drugi zostawiony.
 A odpowiadając rzekli mu: Gdzież Panie? A on im rzekł: Gdzie będzie ścierw, tam się zgromadzą i orły.
+
