@@ -36,7 +36,7 @@ Tego Mojżesza, którego się byli zaprzali, mówiąc: Któż cię postanowił k
 I ten je wywiódł, czyniąc cuda i znamiona w ziemi Egipskiej i na morzu Czerwonem i na puszczy, przez czterdzieści lat.
 Tenci jest Mojżesz, który rzekł synom Izraelskim: Proroka wam wzbudzi Pan, Bóg wasz, z braci waszych, jako mię, onego słuchać będziecie;
 Ten jest, który był w zgromadzeniu na puszczy z Aniołem, który mówił do niego na górze Synaj, i z ojcami naszymi, który przyjął słowa Boże żywe, aby je nam podał.
-Któremu nie chcieli posłuszni być ojcowie nasi; ale go odrzucili, i obrócili się sercy swemi do Egiptu.
+Któremu nie chcieli posłuszni być ojcowie nasi; ale go odrzucili, i obrócili się sercy swemi do Egiptu,
 Mówiąc do Aarona: Uczyń nam bogi, którzyby szli przed nami; albowiem Mojżeszowi onemu, który nas wywiódł z ziemi Egipskiej, nie wiemy co się stało.
 I uczynili w one dni cielca, i sprawowali ofiarę onemu bałwanowi, i weselili się w sprawach rąk swoich;
 I odwrócił się Bóg, i podał je, aby służyli wojsku niebieskiemu, jako napisano jest w księgach prorockich: Zażeście mu bite, i inne ofiary ofiarowali na puszczy przez czterdzieści lat, domu Izraelski?
@@ -58,3 +58,4 @@ A oni krzyknąwszy głosem wielkim, zatulili uszy swoje, i rzucili się nań jed
 A wypchnąwszy go z miasta, kamionowali; a świadkowie złożyli szaty swoje u stóp młodzieńca, którego zwano Saul.
 I kamionowali Szczepana, modlącego się i mówiącego: Panie Jezu! przyjmij ducha mojego!
 A klęknąwszy na kolana, zawołał głosem wielkim: Panie! nie poczytaj im tego za grzech! A to rzekłszy, zasnął.
+
