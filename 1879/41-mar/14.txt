@@ -28,7 +28,7 @@ Potem im rzekł Jezus: Wszyscy wy zgorszycie się zemnie tej nocy; bo napisano: 
 Lecz gdy zmartwychwstanę, poprzedzę was do Galilei.
 Ale mu Piotr powiedział: Choćby się wszyscy zgorszyli, ale ja nie.
 I rzekł mu Jezus: Zaprawdę powiadam tobie, iż dziś tej nocy, pierwej niż dwakroć kur zapieje, trzykroć się mnie zaprzesz.
-Ale on tem więcej mówił: Bym z tobą miał i umrzeć, nie zaprę się ciebie. Toć też i wszyscy mówili:
+Ale on tem więcej mówił: Bym z tobą miał i umrzeć, nie zaprę się ciebie. Toć też i wszyscy mówili.
 I przyszli na miejsce, które zwano Gietsemane; tedy rzekł do uczniów swoich: Siedźcie tu, aż się pomodlę.
 I wziąwszy z sobą Piotra, i Jakóba, i Jana, począł się lękać, i bardzo tęsknić;
 I rzekł im: Bardzo jest smutna dusza moja aż do śmierci; zostańcie tu a czujcie.
@@ -70,3 +70,4 @@ Tedy dziewka ujrzawszy go zasię, poczęła mówić tym, którzy tam stali: Ten 
 A on zasię zaprzał się. A znowu po małej chwilce ci, co tam stali, rzekli Piotrowi: Prawdziwie z nich jesteś; boś i Galilejczyk, i mowa twoja podobna jest.
 A on się począł przeklinać i przysięgać, mówiąc: Nie znam człowieka tego, o którym mówicie.
 Tedy powtóre kur zapiał. I wspomniał Piotr na słowa, które mu był powiedział Jezus: że pierwej niż kur dwakroć zapieje, trzykroć się mnie zaprzesz. A wyszedłszy, płakał.
+
