@@ -4,7 +4,7 @@ Błogosławieni ubodzy w duchu; albowiem ich jest królestwo niebieskie.
 Błogosławieni, którzy się smęcą; albowiem pocieszeni będą.
 Błogosławieni ciszy; albowiem oni odziedziczą ziemię.
 Błogosławieni, którzy łakną i pragną sprawiedliwości; albowiem oni nasyceni będą.
-Błogosławieni miłosierni: albowiem oni miłosierdzia dostąpią.
+Błogosławieni miłosierni; albowiem oni miłosierdzia dostąpią.
 Błogosławieni czystego serca; albowiem oni Boga oglądają.
 Błogosławieni pokój czyniący; albowiem oni synami Bożymi nazwani będą.
 Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości; albowiem ich jest królestwo niebieskie.
@@ -46,3 +46,4 @@ Abyście byli synami Ojca waszego, który jest w niebiesiech; bo on to czyni, ż
 Albowiem jeźli miłujecie te, którzy was miłują, jakąż zapłatę macie? azaż i celnicy tego nie czynią?
 A jeźlibyście tylko braci waszych pozdrawiali, cóż osobliwego czynicie? azaż i celnicy tak nie czynią?
 Bądźcież wy tedy doskonałymi, jako i Ojciec wasz, który jest w niebiesiech, doskonały jest.
+
